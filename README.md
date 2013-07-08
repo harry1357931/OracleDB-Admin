@@ -7,7 +7,8 @@ This repository contain code of DataBaseAdmin designed by Gurpreet Singh to : <b
  4) Insert rows in any table. <br>
  5) Delete tables <br>
 
-The GUI is really nice....must check. 
+The GUI is really nice....check few screenshots here:
+<img src="https://raw.github.com/harry1357931/OracleDB-Admin/master/OracleAdmin_CreateNewTableBlankPage.PNG" alt="CreateTable" width="" height="">
 
 DatabaseAdmin ScreenShots:
 ==========================
