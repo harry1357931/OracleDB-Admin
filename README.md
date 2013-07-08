@@ -9,6 +9,14 @@ This repository contain code of DataBaseAdmin designed by Gurpreet Singh to : <b
 
 The GUI is really nice....check few screenshots here:
 <img src="https://raw.github.com/harry1357931/OracleDB-Admin/master/OracleAdmin_CreateNewTableBlankPage.PNG" alt="CreateTable" width="" height="">
+<img src="https://raw.github.com/harry1357931/OracleDB-Admin/master/OracleAdmin_CreateNewTablePage_IncreasingColumns.PNG" alt="CreateTable" width="" height="">
+<img src="https://raw.github.com/harry1357931/OracleDB-Admin/master/OracleAdmin_CreatingNewTable.PNG" alt="" width="" height="">
+<img src="https://raw.github.com/harry1357931/OracleDB-Admin/master/OracleAdmin_DropTablePage.PNG" alt="" width="" height="">
+<img src="https://raw.github.com/harry1357931/OracleDB-Admin/master/OracleAdmin_DropTablePage_2.PNG" alt="" width="" height="">
+<img src="https://raw.github.com/harry1357931/OracleDB-Admin/master/OracleAdmin_InsertingRowIntoTablePage.PNG" alt="" width="" height="">
+<img src="https://raw.github.com/harry1357931/OracleDB-Admin/master/OracleAdmin_ViewTablePage.PNG" alt="" width="" height="">
+<img src="https://raw.github.com/harry1357931/OracleDB-Admin/master/OracleAdmin_WelcomePage.PNG" alt="" width="" height="">
+
 
 DatabaseAdmin ScreenShots:
 ==========================
